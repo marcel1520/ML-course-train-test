@@ -1,0 +1,30 @@
+Applications for DeepLearning
+
+Recommendations
+Translation
+Speech Recognition
+Computer Vision
+Natural Language Processing
+
+pytorch -> deep learning framework
+able to access deep learning models (torch hub, torchvision.models)
+https://paperswithcode.com/sota
+https://www.learnpytorch.io/00_pytorch_fundamentals/#exercises
+https://github.com/mrdbourke/pytorch-deep-learning/
+
+
+Neural Networks -> Inputs -> numerical encoding 
+-> learns representation -> representation outputs 
+-> outputs
+
+courses:
+https://www.youtube.com/watch?v=CMEWVn1uZpQ
+https://www.youtube.com/watch?v=-dJPoLm_gtE
+0. inside the project folder
+1. conda create --prefix ./env pandas numpy matplotlib scikit-learn
+2. conda activate /Users/marcelmann/VisualStudioProjects/machine-learning/env
+    creates the environment depending on the path of the project folder
+3. conda install jupyter notebook
+    can install missing libraries within the environment using conda install command
+4. conda deactivate for exiting the current environment when changing to a different project 
+5. use conda env list to view all the conda environments that exist on the computer
